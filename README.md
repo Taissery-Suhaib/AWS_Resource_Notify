@@ -29,6 +29,7 @@ Stage 3 :
 * > with a syntax of summary for message
 * > specify the syntax for subject and SNS
 
-________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
+                                                 ***OUT_PUT***
 ![image](https://github.com/Taissery-Suhaib/AWS_Resource_Notify/assets/134582331/9b159bb4-48ba-4589-b565-108ad1ddff40)
 
