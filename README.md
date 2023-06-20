@@ -23,4 +23,12 @@ stage 2 :
 
 Stage 3 :
 
-* > 
+* > ***CALLING = LAMBDA_HANDLER***
+* > get resource as assigning as a variable from the stage 1
+* > specify in the resource so it can call resource [] .
+* > with a syntax of summary for message
+* > specify the syntax for subject and SNS
+
+________________________________________________________________________________________________
+![image](https://github.com/Taissery-Suhaib/AWS_Resource_Notify/assets/134582331/9b159bb4-48ba-4589-b565-108ad1ddff40)
+
