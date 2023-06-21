@@ -3,9 +3,11 @@
 
 ![image](https://github.com/Taissery-Suhaib/AWS_Resource_Notify/assets/134582331/4a1cc6d8-4474-420e-ba76-1eb840cb6c01)
 
+---------------------------------------------------------------------------------------------------------------------- 
 
-Triggering : triggering the event using a ***Cloud_Watch*** with a scheduled for every day at 8:0 clock  
-Destination : we set a destination as a SNS Topic which will send a notification to service "we have used email as source"
+
+**Triggering** : triggering the event using a ***Cloud_Watch*** with a scheduled for every day at 8:0 clock  
+**Destination** : we set a destination as a SNS Topic which will send a notification to service "we have used email as source"
 
 
 _______________________________________________________________________________________________________________________________
