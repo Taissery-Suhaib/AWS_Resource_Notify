@@ -7,6 +7,7 @@
 
 
 **Triggering** : triggering the event using a ***Cloud_Watch*** with a scheduled for every day at 8:0 clock UTC
+
 **Destination** : we set a destination as a SNS Topic which will send a notification to service "we have used email as source"
 
 
